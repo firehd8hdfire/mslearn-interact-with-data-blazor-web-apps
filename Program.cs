@@ -111,8 +111,6 @@ namespace GenericMethodAppl {
 
 app.Run();
 
-//mac test
-
 public class MyGenericArray<T> {
       private T[] array;
       
